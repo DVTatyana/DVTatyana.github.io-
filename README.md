@@ -1,0 +1,121 @@
+# DVTatyana.github.io-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Дмитриева Татьяна</title>
+    <link rel="stylesheet" href="css/main.css">
+    <script src="chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/prompt.js"></script>
+</head>
+<body>
+    <div class="container">
+     <div class="sv"> 
+    <h1><strong>Дмитриева Татьяна Владимировна</strong></h1>
+     <h2> QA ingeneer </h2>
+        </div>
+            <div class="info">
+            <div class="infotext">
+         <p>
+            <strong> Дата рождения:</strong>
+            "25 июля 1992"
+        </p>
+        <p>
+            <strong>Адрес:</strong>
+            Россия, г. Чебоксары 
+        </p>
+    </div>
+  </div>
+  <div class="contacts">
+    <div class="contact">
+        <div class="contact__type">
+          Phone:
+        </div>
+        <div class="contact__value">
+          <a href="tel:+79278542310">+79278542310</a>
+        </div>
+       <div class="contact">
+      <div class="contact__type">
+        Email:
+      </div>
+      <div class="contact__value">
+        <a href="mailto:Ntatyana07@Gmail.com">Ntatyana07@Gmail.com</a>
+      </div>
+    </div>
+  </div>
+    <div class="logo">
+    <img src="639341605.jpeg" alt="">
+    </div>
+    <div class="p">
+        <p><strong> </strong> </p>
+        <hr>      
+    </div>
+    <div class="UL">
+        <h3><strong>Опыт Работы</strong></h3>
+        <p>Стажер., тестировщик чат-бота в телеграмм</p>
+        <h4><strong>Некоммерческий проект Viddibot</strong></h4>
+        <p>Июнь 2022 по настоящее время</p>
+        <h5>Обязанности</h5>
+            <ul>
+            <li>Анализ предоставленных данных заказчиком, документации предоставленной в GitLab</li>
+            <li>Написание тех. документации по результатам : User Story, описание возможностей, написание тест-кейсов, чек-листов, оформление баг-репорта.  </li>
+            <li>Проведение мобильного тестирования бота телеграмм на устройствах IOS, Andrioid, а так же на Desctop версии. </li>
+            <li>Тестирование сайта написанного под функционал бота (в том числе с использованием инструмента DevTools) </li>
+            <li>Выполнение роли Scrum Hero (организация ежедневного стенд апа, согласование с заказчиков встреч их организация и проведение, решение текущих вопросов команды)</li>
+            <li>Составление MindMapp </li>
+           
+        </ul>
+               <h7><strong>ООО "МБ-Чебоксары"</strong></h7>
+        <p>Бухгалтер-кассир</p>
+        <p>Июль 2016 по настоящее время</p>
+        <h8>Обязанности</h8>
+            <ul>
+            <li>Ведение кассовой дисциплины в программах 1С и Logic</li>
+            <li>Контроль, обработка и ведение первичной документации</li>
+            <li>Списание материалов</li>
+            <li>Учет ОС</li>
+            <li>Выполнение поручений роководителя</li>
+                     
+        </ul>
+        <div class="education">
+            <h3> <strong> Образование</strong> </h3>
+            <h4><strong>Высшее</strong></h4>
+            <table border="0">
+                <tr>
+                    <td><strong>2016 год </strong></td>
+                    <td>Чувашский государственный университет им. И.Н. Ульянова, Чебоксары
+                        <p>юридический, Юриспруденция</p>
+                    </td>        
+                </tr>
+            </table>
+            <table border="0">
+                <tr>
+                    <td> <strong>2014 год </strong></td>
+                    <td>Чувашская государственная сельскохозяйственная академия, Чебоксары
+                        <p>Биотехнологический, Технология производства и переработки сельскохозяйственной продукции</p>
+                    </td>        
+                </tr>
+            </table>
+           <h3> <strong> Дополнительное образование</strong> </h3>
+            <table border="0">
+                <tr>
+                    <td><strong>2022 год </strong></td>
+                    <td>Национальный исследовательский Томский государственный университет, Томск
+                        <p>Тестировщик программного обеспечения</p>
+                    </td>        
+                </tr>
+            </table>
+            <table border="0">
+                <tr>
+                    <td><strong>2019 год </strong></td>
+                    <td>АНО ДПО "Учебно-методический цент торгово-промышленной палаты Чувашской Республики"
+                        <p>Главный бухгалтер</p>
+                    </td>        
+                </tr>
+            </table>
+        </div>
+    </div>
+  </div>
+</body>
+</html>
